@@ -157,8 +157,7 @@ article p.article-content::first-letter {
   line-height: 1;
   margin: 0.1em 0.1em 0.2em 0;
   padding: 0.1em;
-  color: lightgray;
-  font-weight: bold;
+  color: #c2c2c2;
 }
 
 article p.article-content::first-letter:before, article p.article-content::first-letter:after {
