@@ -7,7 +7,7 @@ export function Article({title, content, date, image}) {
             <h3 className="article-title">{title}</h3>
             <img src={image} alt="article banner image" />
             <p className="article-content">{content}</p>
-            <p>Continue...</p>
+            <p>Continues ...</p>
         </article>
     )
 }
